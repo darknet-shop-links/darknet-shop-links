@@ -117,3 +117,5 @@ To access darknet shops, always utilize official onion URLs. Always double-check
 Darknet markets offer tools for private transactions. By following security best practices, using escrow, and being cautious, you can navigate these markets safely. Always verify URLs, use encryption, and remain aware of scams to ensure a secure experience.
 
 Please contribute and add stars to this repo.
+
+Update:  11.06.2025 11:17 Link is now active and responsive
