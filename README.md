@@ -2,4 +2,6 @@
 
 
 
-Update:  16.06.2025 05:31
+
+
+Update: Fixed broken image references in docs
