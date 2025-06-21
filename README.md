@@ -4,4 +4,6 @@
 
 
 
-Update: Fixed broken image references in docs
+
+
+Update: Link is now accessible and responsive
