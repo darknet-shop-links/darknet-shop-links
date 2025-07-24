@@ -22,4 +22,6 @@
 
 
 
-Update:  21.07.2025 Fixed broken url
+
+
+Update: url is now working and available
