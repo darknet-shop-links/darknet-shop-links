@@ -31,8 +31,12 @@ These sites are not accessible on the clearnet - [Download the Tor Browser!](htt
 #### Darknet Markets:
 
 
+
+*   [BlackOps - Market](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion) - `http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion`
+*   [DrugHub - Market](http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion) - `http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion`
 *   [Nexus - Market](http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion) - `http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion`
-*   [Torzon Market](http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion) - `http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion`
+*   [Torzon Market](http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion) - `http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion`
+*   [We-The North Canada](http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion) - `http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion`
 
 
 ## Logging In: Securing Your Entry
@@ -109,7 +113,3 @@ To access darknet shops, always utilize official onion URLs. Always double-check
 Darknet markets offer tools for private transactions. By following security best practices, using escrow, and being cautious, you can navigate these markets safely. Always verify URLs, use encryption, and remain aware of scams to ensure a secure experience.
 
 Please contribute and add stars to this repo.
-
-
-
-Update:  09/12/2025
